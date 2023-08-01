@@ -1,5 +1,5 @@
 # NBA_Trio_Visualization
-ECS270 final project
+ECS270 project
 
 
 ## Install Dependencies
